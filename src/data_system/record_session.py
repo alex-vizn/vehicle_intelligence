@@ -5,7 +5,7 @@ from pathlib import Path
 from datetime import datetime
 
 # --- PATHS ---
-BASE = Path.home() / "kart_project"
+BASE = Path.home() / "Developer" / "kart_project"
 SESSIONS = BASE / "data" / "sessions"
 SRC = BASE / "src"
 
